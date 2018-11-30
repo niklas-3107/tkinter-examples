@@ -37,3 +37,10 @@ window.mainloop()
 ## Tkinter PanedWindow
 
 ## Tkinter Canvas
+
+# Exercise
+ - Create a fork of this repository
+ - Clone your fork locally
+ - Add a source code example and a screenshot to one of the topics
+ - Commit and push your changes to your fork
+ - Create a pull request for your changes
